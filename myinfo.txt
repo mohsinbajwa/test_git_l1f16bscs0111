@@ -1,1 +1,4 @@
 "Name: Muhammad Mohsin"
+Email: m.mohsinbajwa14@gmail.com
+city: lahore
+gender: male
